@@ -1,13 +1,14 @@
-#Lab 4 - South American Rainforest Animals
+# Lab 4 - South American Rainforest Animals
 
-##Diarra Bell
-##Lab 4
-##September 19, 2018
+## Diarra Bell
+## Lab 4
+## September 19, 2018
 
 These three animals are animals that are common in South American rainforests. I chose these three animals because I think they are interesting. My three favorite rainforest animals are listed in alphabetical order. While they are all very different species, they are similar in that they are land mammals that have the ability to swim and thus thrive in rainforest environments.
 
 ---
-##Capybaras
+
+## Capybaras
 
 Yellow-headed caracara on a capybara
 Capybaras are semiaquatic mammals found throughout almost all countries of South America except Chile. They live in densely forested areas near bodies of water, such as lakes, rivers, swamps, ponds, and marshes as well as flooded savannah and along rivers in the tropical rainforest. Capybara have flourished in cattle ranches. They roam in home ranges averaging 10 hectares (25 acres) in high-density populations.
@@ -19,7 +20,7 @@ The capybara has a heavy, barrel-shaped body and short head, with reddish-brown 
 [Source: Wikipedia](https://en.wikipedia.org/wiki/Capybara)
 
 ---
-##Ocelots
+## Ocelots
 
 The ocelot (Leopardus pardalis) /ˈɒsəlɒt/ is a wild cat native to the southwestern United States, Mexico, Central and South America. It is listed as Least Concern on the IUCN Red List as the population is estimated to comprise more than 40,000 mature individuals and is considered stable. Its fur was once regarded as particularly valuable, but legal trade of its fur ceased decades ago.
 
@@ -32,7 +33,7 @@ Its eyes are brown but reflect golden when illuminated.
 [Source: Wikipedia](https://en.wikipedia.org/wiki/Ocelot)
 
 ---
-##Sloths
+## Sloths
 
 Sloths are arboreal mammals noted for slowness of movement and for spending most of their lives hanging upside down in the trees of the tropical rainforests of South America and Central America. The six species are in two families: two-toed sloths and three-toed sloths. In spite of this traditional naming, all sloths actually have three toes. The two-toed sloths have two digits, or fingers, on each forelimb.
 
